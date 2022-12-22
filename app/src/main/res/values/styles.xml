@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyTextView" parent="Widget.AppCompat.TextView">
+        <item name="android:textStyle">bold</item>
+        <item name="android:color">@color/color_secondary</item>
+    </style>
+    <style name="TitleView" parent="MyTextView">
+        <item name="android:textSize">30sp</item>
+    </style>
+</resources>

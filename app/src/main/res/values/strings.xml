@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Timetable for HSE</string>
+    <string name="students_timetable_button">Расписание для студентов</string>
+    <string name="teachers_timetable_button">Расписание для преподавателя</string>
+    <string name="settings_button">Настройки</string>
+    <string name="HSE_logo_image">Логотип ВШЭ</string>
+
+    <string name="teacher_choosing_label">Выберите преподавателя</string>
+    <string name="group_choosing_label">Выберите группу</string>
+    <string name="teacher_list">Список преподавателей</string>
+    <string name="time_now">Сейчас:</string>
+    <string name="teacher_has_lessons">Идет пара</string>
+    <string name="teacher_has_no_lessons">Нет пар</string>
+    <string name="subject_label">Дисцисплина</string>
+    <string name="cabinet_label">Кабинет</string>
+    <string name="corpus_label">Корпус</string>
+    <string name="teacher_label">Преподаватель</string>
+    <string name="timetable_for_a_day">Расписание на день</string>
+    <string name="timetable_for_a_week">Расписание на неделю</string>
+
+    <string name="photo_label">Укажите фото:</string>
+    <string name="photo_description">Фото пользователя</string>
+    <string name="make_photo_button_label">Сделать фото</string>
+    <string name="get_permissions_label">Нужно предоставить права</string>
+    <string name="make_photo_permission_label">Для снятия фото нужно предоставить права на камеру</string>
+    <string name="write_name_placeholder">Укажите ваше имя</string>
+    <string name="light_label">Текущая освещенность:</string>
+    <string name="sensors_list">Список сенсоров:</string>
+    <string name="save_button_label">Сохранить</string>
+</resources>
